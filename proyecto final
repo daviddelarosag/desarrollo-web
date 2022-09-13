@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+<link rel="stylesheet" href="trabajo final/stylefinal.css">
+     <title>Document</title>
+</head>
+<body>
+
+ <header>
+    <nav>
+        <a href="#home">    
+        <img id="logo" src="/trabajo final padre/trabajo final/image/pngwing.com.png" alt="no hay foto"></a>
+        <a href="sss">arte</a>
+        <a href="aaaa">colecciones</a>
+        <a href="dddd">conocenos</a>
+    </nav>
+    
+    <div>
+        <button>iniciar secion </button>
+        <button>Registrarse </button>
+    </div>
+ </header>
+
+ <section id="titulo">
+<h1>UNA EXPERIENCIA <br> TOTALMENTE NUEVA <br>
+     EN EL ARTE <br> <p> una tradicion milenaria nos ha acompañado a través de todo <br>
+     este tiempo. <a href="">Aprende más...</a></p></h1>
+
+      
+   
+
+ </section>
+
+ <section>
+
+    <img id="alebrije" src="/trabajo final padre/trabajo final/image/alebrijes-en-oaxaca-940x626.jpg" alt="">
+
+    <div>
+        <h1> ALEBRIJES MEXICANOS </h1><br>
+        <h3> talladas en madera, cumplen con las más <br> altas exigencias en diseño </h3>
+        <button id="pedido">Haz tu pedido</button>
+    </div>
+ </section>
+<section>
+    
+     <div> 
+        <h1> CREATIVIDAD E <br> IMAGINACIÓN <br> </h1><br>
+        <h3> un sueño hecho realidad </h3>
+        <button id="pedido">Haz tu pedido</button>
+    </div>
+    
+    <img id="alebrije1" src="/trabajo final padre/trabajo final/image/nomadas6.jpg" alt="">
+
+   
+
+</section>
+
+ <footer>
+    <a href=""> <img  src="/trabajo final padre/trabajo final/image/icons8-apple-music-30.png" alt=""></a>
+    <a href=""><img src="/trabajo final padre/trabajo final/image/icons8-facebook-nuevo-30.png" alt=""></a>
+    <a href=""><img src="/trabajo final padre/trabajo final/image/icons8-pinterest-30.png" alt=""></a>
+    <a href=""><img src="/trabajo final padre/trabajo final/image/icons8-instagram-viejo-30.png" alt=""></a>
+    <a href=""><img src="/trabajo final padre/trabajo final/image/icons8-youtube-30.png" alt=""></a>
+    <a href=""><img src="/trabajo final padre/trabajo final/image/icons8-pila-de-tweets-30.png" alt="">
+    </a>
+        <h4> &copy; 2022 Todos los derechos reservados al arte popular </h4>
+    
+        </footer>
+    </body>
+    </html>
